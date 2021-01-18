@@ -7,7 +7,7 @@ The CTF was hosted at https://www.watchcom.ninja/
 * [Crypto 1](#crypto-1)
 * [SQLi 101](#sqli-101)
 * [SQLi 202](#sqli-202)
-* [Web Dynamic CMS 2.0](#web-dynamic-cms-2.0)
+* [Web Dynamic CMS 2.0](#web-dynamic-cms-20)
 * [Web JWT](#web-jwt)
 
 ## Crypto 1
