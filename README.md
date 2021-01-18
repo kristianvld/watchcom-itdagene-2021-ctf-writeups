@@ -1,6 +1,15 @@
 # Writeups for Watchcom sin mini-CTF ved ITDagene 2021
 ## Warning: Contains spoilers!
 
+The CTF was hosted at https://www.watchcom.ninja/
+
+## Challenges:
+* [Crypto 1](#Crypto%201)
+* [SQLi 101](#SQLi%20101)
+* [SQLi 202](#SQLi%20202)
+* [Web Dynamic CMS 2.0](#Web%20Dynamic%20CMS%202.0)
+* [Web JWT](#Web%20JWT)
+
 ## Crypto 1
 Points: 500 \
 Description:
